@@ -1,6 +1,6 @@
 'use strict';
 
-const HEADER_SUGGESTIONS = ['pfb', 'X-Forwarded-For'];
+const HEADER_SUGGESTIONS = ['X-Forwarded-For'];
 
 let state = null;
 let saveTimer = null;
