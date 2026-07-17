@@ -9,7 +9,7 @@
 - **全局开关** — 顶栏 Toggle 一键启用/禁用所有规则
 - **多 Tab** — 每个 Tab 独立管理一组 Headers，只有当前激活 Tab 的规则生效
 - **Header 操作** — 支持 Set / Append / Remove 三种操作
-- **预设下拉** — Header-Name 支持预设选项（`pfb`、`X-Forwarded-For`），也可手动输入
+- **预设下拉** — Header-Name 支持预设选项（`X-Forwarded-For`），也可手动输入
 - **注释字段** — 每行支持添加备注，不影响实际请求
 - **持久化** — 规则写入 `declarativeNetRequest`，浏览器重启后依然生效
 
