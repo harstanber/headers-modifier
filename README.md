@@ -73,5 +73,5 @@ headers/
 编辑 `popup.js` 顶部的 `HEADER_SUGGESTIONS` 数组：
 
 ```js
-const HEADER_SUGGESTIONS = ['pfb', 'X-Forwarded-For', 'Authorization', 'X-Api-Key'];
+const HEADER_SUGGESTIONS = [ 'X-Forwarded-For', 'Authorization', 'X-Api-Key'];
 ```
